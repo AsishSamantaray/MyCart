@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "966391883942",
+    "project_id": "mycart-9699d",
+    "storage_bucket": "mycart-9699d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966391883942:android:88ad70efca37895e132c67",
+        "android_client_info": {
+          "package_name": "com.asish.mycart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "966391883942-phguo6dj1d60sa23s9lfh63q14dqqgae.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXflILzaCq6jkB2aNnNUtDBSJzG4DXxSE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "966391883942-phguo6dj1d60sa23s9lfh63q14dqqgae.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
