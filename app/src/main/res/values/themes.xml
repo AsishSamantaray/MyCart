@@ -10,10 +10,27 @@
         <!-- Status bar color. -->
         <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
         <!-- Customize your theme here. -->
+
+        <item name="android:textViewStyle">@style/MontserratTextViewStyle</item>
+        <item name="android:textAppearanceButton">@style/MontserratButtonTextStyle</item>
+        <item name="android:editTextStyle">@style/MontserratEditTextStyle</item>
     </style>
 
     <style name="Theme.MyCart.NoActionBar">
         <item name="windowActionBar">false</item>
         <item name="windowNoTitle">true</item>
+        <item name="android:textViewStyle">@style/MontserratTextViewStyle</item>
+    </style>
+
+    <style name="MontserratTextViewStyle" parent="android:Widget.TextView">
+        <item name="android:fontFamily">@font/montserrat</item>
+    </style>
+
+    <style name="MontserratButtonTextStyle" parent="android:Widget.Button">
+        <item name="android:fontFamily">@font/montserrat</item>
+    </style>
+
+    <style name="MontserratEditTextStyle" parent="android:Widget.EditText">
+        <item name="android:fontFamily">@font/montserrat</item>
     </style>
 </resources>
