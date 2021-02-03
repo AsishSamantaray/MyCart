@@ -1,8 +1,7 @@
 package com.asish.mycart.activities
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.view.WindowManager
+import androidx.appcompat.app.AppCompatActivity
 import com.asish.mycart.R
 
 class LoginActivity : AppCompatActivity() {
